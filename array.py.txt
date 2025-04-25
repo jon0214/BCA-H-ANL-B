@@ -1,4 +1,4 @@
-//hi
+//hi peopleeee
 import numpy as np
 
 #creating an array
